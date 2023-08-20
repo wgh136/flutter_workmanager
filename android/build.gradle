@@ -38,7 +38,7 @@ android {
         disable 'InvalidPackage'
     }
 
-    namespace 'flutter_workmanager'
+    namespace 'be.tramckrijte.workmanager'
 }
 
 dependencies {
